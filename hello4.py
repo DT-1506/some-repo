@@ -5,3 +5,5 @@
 print("Hi hello waht u doin")
 
 # small adjustments
+
+# yea i thin, this is more efficient
