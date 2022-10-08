@@ -1,5 +1,4 @@
-for a in range(10):
-    print(a+1)
-    print("this is a number")
 
-print("DOne for today")
+a = [1, 2, 3, 4, 5]
+for num in a :
+    print("number:", num)
